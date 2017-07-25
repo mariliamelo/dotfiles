@@ -4,6 +4,9 @@
 syntax on
 colorscheme desert
 
+set nocompatible
+filetype plugin indent on
+
 " タブをスペース4つに
 set tabstop=4
 set autoindent
